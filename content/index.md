@@ -63,7 +63,7 @@ function hello(name) {
 
 ## Image
 
-![Example image](https://via.placeholder.com/400x200)
+![Example image](https://placehold.co/400x200)
 
 ## Escaping
 
