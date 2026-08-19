@@ -1,0 +1,25 @@
+[
+  {
+    "type": "page",
+    "path": "/",
+    "title": "Головна",
+    "description": "Основне про сервер",
+    "icon": "https://minecraft.wiki/images/Mob_of_Me_(inventory)_MCE.png"
+  },
+  {
+    "type": "category",
+    "path": "/tc",
+    "title": "Тестова категорія",
+    "pages": [
+      {
+          {
+            "type": "page",
+            "path": "/t",
+            "title": "Тестова сторінка",
+            "description": "Ьеў",
+            "icon": "https://minecraft.wiki/images/Milk_(inventory)_MCE.png"
+          }
+      }
+    ]
+  }
+]
