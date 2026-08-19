@@ -12,13 +12,11 @@
     "title": "Тестова категорія",
     "pages": [
       {
-          {
-            "type": "page",
-            "path": "/t",
-            "title": "Тестова сторінка",
-            "description": "Ьеў",
-            "icon": "https://minecraft.wiki/images/Milk_(inventory)_MCE.png"
-          }
+        "type": "page",
+        "path": "/t",
+        "title": "Тестова сторінка",
+        "description": "Ьеў",
+        "icon": "https://minecraft.wiki/images/Milk_(inventory)_MCE.png"
       }
     ]
   }
