@@ -7,6 +7,13 @@
     "icon": "https://minecraft.wiki/images/Mob_of_Me_(inventory)_MCE.png"
   },
   {
+    "type": "page",
+    "path": "/rules",
+    "title": "Правила",
+    "description": "Правила серверу",
+    "icon": "https://minecraft.wiki/images/Bookshelf_(inventory)_MCE.png?6136c"
+  },
+  {
     "type": "category",
     "path": "/tc",
     "title": "Тестова категорія",
